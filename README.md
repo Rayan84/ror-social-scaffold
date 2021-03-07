@@ -71,7 +71,7 @@ TBA
 
 ## Authors
 
-TBA
+Ray
 
 ## 🤝 Contributing
 
@@ -90,4 +90,3 @@ TBA
 ## 📝 License
 
 TBA
-
